@@ -1,35 +1,19 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# MatÃ­as CalderÃ³n
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola, mi nombre es **MatÃ­as** y este es mi tercer cuatrimestre en esta carrera.
+Desde 2017 curse **Lic. en InformÃ¡tica** en la UNO hasta el 2020 que vino la pandemia, llegue hasta el segundo aÃ±o donde termine dejando porque conseguÃ­ trabajo en sistemas, y no pude manejar los tiempos entre estudio y trabajo. A fines de 2022 realice el curso de ingreso a la **UNAHUR**.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Me inscribi en la carrera de programacion por recomendaciÃ³n de mi hermana y amigos, ademas de que me pareciÃ³ interesante la propuesta educativa 
+y el enfoque que se le da a la carrera.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
+A medidos de pandemia consegui empleo en una consulta como QA Automation Trainee, y a partir de ahi empece a desarrollar mi carrera profesional en esta rama. 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+![Foto de Perfil](./assets/fotoDePerfil-MNC.jpg)
 
+## Mis gustos y sobre mi
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+- Amo el futbol. Hincha fanatico del Club Atletico Boca Juniors.
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+- Hace unos meses me compre mi primer auto, estoy aun poniendolo a punto.
